@@ -8,3 +8,4 @@ These are my side projects for learning pure js without any library. AKA vanilla
 - [04-navbar](https://zhuoyutan.github.io/vanilla-web-project/04-navbar/index.html)
 - [05-sidebar](https://zhuoyutan.github.io/vanilla-web-project/05-sidebar/index.html)
 - [06-modal](https://zhuoyutan.github.io/vanilla-web-project/06-modal/index.html)
+- [07-questions](https://zhuoyutan.github.io/vanilla-web-project/07-questions/index.html)
