@@ -13,7 +13,7 @@ These are my side projects for learning pure js without any library. AKA vanilla
 - [09-video](https://zhuoyutan.github.io/vanilla-web-project/09-video/index.html)
 - [10-scroll](https://zhuoyutan.github.io/vanilla-web-project/10-scroll/index.html)
 - [11-tabs](https://zhuoyutan.github.io/vanilla-web-project/11-tabs/index.html)
-- [13-Lorem Ipsum](https://zhuoyutan.github.io/vanilla-web-project/13-Lorem Ipsum/index.html)
+- [13-Lorem Ipsum](https://zhuoyutan.github.io/vanilla-web-project/13-Lorem%20Ipsum/index.html)
   - map()
   - join("")
   - isNaN()
